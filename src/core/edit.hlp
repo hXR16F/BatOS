@@ -1,0 +1,367 @@
+@@!1!@
+Polecenia programu Edit
+
+Polecenia dotycz¥ce kursora
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Home       - Przenosi do pocz¥tku bie¾¥cego wiersza.
+End        - Przenosi do koäca bie¾¥cego wiersza.
+Ctrl+Up    - Przewija do g¢ry o jedn¥ lini©.
+Ctrl+Down  - Przewija do doˆu o jedn¥ lini©.
+PageUp     - Przewija do g¢ry o jeden ekran.
+PageDown   - Przewija do doˆu o jeden ekran.
+Ctrl+PgUp  - Przewija w lewo o jeden ekran.
+Ctrl+PgDn  - Przewija w prawo o jeden ekran.
+Ctrl+Home  - Przewija do pocz¥tku dokumentu.
+Ctrl+End   - Przewija do koäca dokumentu.
+Ctrl+Left  - Przenosi w lewo o jedno sˆowo.
+Ctrl+Right - Przenosi w prawo o jedno sˆowo.
+
+Polecenia dotycz¥ce edycji
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Enter      - Przechodzi do nast©pnego wiersza.
+Delete     - Usuwa znak znajduj¥cy si© nad kursorem.
+Backspace  - Usuwa znak z lewej strony kursora.
+Tab        - Przesuwa kursor do nast©pnej pozycji tabulatora.
+Insert     - Przeˆ¥cza pomi©dzy trybami wstawiania i nadpisywania.
+Ctrl+Y     - Usuwa bie¾¥c¥ lini©.
+Ctrl+V     - Wkleja zawarto˜† bufora do pliku.
+Ctrl+P     - Pozwala na wstawianie znak¢w specjalnych.
+
+Polecenia dotycz¥ce zaznaczonego obszaru
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Shift      - Zaznacza obszary przy pomocy klawisza shift
+             i klawiszy strzaˆek.
+Ctrl+C     - Kopiuje zaznaczenie do bufora.
+Ctrl+X     - Usuwa zaznaczenie i kopiuje je do bufora.
+Delete     - Usuwa zaznaczenie.
+Tab        - Dokonuje wci©cia w zaznaczonym wierszu.
+Shift+Tab  - Usuwa wci©cie w zaznaczonym wierszu.
+
+Polecenia dotycz¥ce poszukiwania i zamiany tekstu
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ctrl+Q+F   - Znajduje tekst.
+Ctrl+Q+A   - Znajduje tekst i zamienia go.
+F3         - Powtarza ostatnie poszukiwanie.
+
+Polecenia dotycz¥ce okien
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+F6         - Przeˆ¥cza do nast©pnego okna edycji.
+F8         - Przeˆ¥cza do nast©pnego aktywnego pliku.
+Ctrl+F6    - Otwiera drugie okno edycji.
+Ctrl+F4    - Zamyka drugie okno edycji.
+Ctrl+F8    - Zmienia rozmiar okna edycji.
+
+Inne polecenia
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+F1         - Wy˜wietla pomoc kontekstow¥.
+
+Obsˆugiwana jest r¢wnie¾ wi©kszo˜† starszych klawiszy
+skr¢tu z poprzednich wersji programu EDIT.
+@@!3!@
+Znajd«
+
+Znajduje tekst w pliku.
+
+ Aby odnale«† tekst, kt¢ry jest caˆym sˆowem a nie cz©˜ci¥
+  dˆu¾szego wyrazu, kliknij Uwzgl©dniaj tylko caˆe sˆowa.
+ Aby odnale«† tekst o takiej samej kombinacji du¾ych i maˆych
+  liter jak poszukiwany tekst, kliknij Uwzgl©dniaj wielko˜† liter.
+ Aby anulowa† wyszukiwanie nacisnij klawisz ESC.
+@@!4!@
+Zamieä
+
+Znajduje okre˜lony tekst i zamienia na nowy.
+
+ Aby potwierdzi† ka¾d¥ zamian©, kliknij przycisk Zamieä.
+ Aby od razu zamieni† wszystkie wyst¥pienia tekstu, kliknij
+  przycisk Zamieä wszystko.
+ Aby odnale«† tekst, kt¢ry jest caˆym sˆowem a nie cz©˜ci¥
+  dˆu¾szego wyrazu, kliknij Uwzgl©dniaj tylko caˆe sˆowa.
+ Aby odnale«† tekst o takiej samej kombinacji du¾ych i maˆych
+  liter jak poszukiwany tekst, kliknij Uwzgl©dniaj wielko˜† liter.
+
+Pierwsze wyst¥pienie tekstu zostanie zaznaczone, nast©pnie
+pojawi si© pytanie czy zast¥pi† odnaleziony tekst, czy pomin¥†
+lub anulowac wyszukiwanie.
+Aby anulowa† wyszukiwanie naci˜nij klawisz ESC.
+@@!5!@
+Otw¢rz
+
+Otwiera istniej¥cy plik lub tworzy nowy o wybranej nazwie.
+
+ Aby wybra† nazw© ˜cie¾ki dla pliku mo¾na posˆu¾y† si© oknem
+  Pliki i oknem Katalogi. Mo¾na j¥ r¢wnie¾ wpisa† w polu 
+  Nazwa pliku.
+
+ Je¾eli plik nie istnieje, w miejscu opisanym podan¥ ˜cie¾k¥
+  zostanie utworzony nowy, pusty plik.
+
+ Aby otworzy† plik w trybie tylko-do-odczytu, kliknij pole
+  Tylko-do-odczytu.
+  
+ Aby otworzy† plik w trybie binarnym, kliknij pole Binarny.
+  Nast©pnie wprowad« po¾¥dan¥ szeroko˜† wiersza w polu
+  Szer. Wiersza znajduj¥cym si© poni¾ej pola wyboru Binarny.
+@@!6!@
+Zapisz jako
+
+Zapisuje i nadaje nazw© plikom aktywnym.
+
+ Skorzystaj z tej opcji w celu nadania nazwy nowemu lub ju¾
+  istniej¥cemu plikowi. Aby zapisa† istniej¥cy plik bez zmiany 
+  jego nazwy u¾yj polecenia Zapisz z menu Plik.
+
+ Wpisz now¥ nazw© ˜cie¾ki w polu Nazwa Pliku. W znalezieniu
+  innej nazwy pliku, katalogu lub dysku mog¥ by† pomocne
+  okna Katalogi i Istniej¥ce Pliki.
+
+ Je¾eli ju¾ istnieje plik o tej samej nazwie, program Edit
+  zapyta, czy na pewno chcesz zamieni† go na nowy.
+  
+@@!8!@
+Drukuj
+
+Drukuje aktywny plik.
+
+ Aby wydrukowa† jedynie cz©˜† pliku zaznacz fragment tekstu
+  przeznaczony do druku. W oknie dialogowym Drukuj kliknij
+  Tylko Zaznaczony Tekst.
+
+ Aby wydrukowa† caˆo˜† pliku, kliknij Caˆy Dokument.
+@@!9!@
+Kolory
+
+Okre˜la kolory element¢w ekranu.
+
+1. W oknie Elementy wybierz ten element, kt¢ry chcesz zmieni†.
+
+2. W oknie Pierwszy Plan wybierz kolor elementu.
+   
+3. W oknie Tˆo wybierz kolor tˆa.
+   
+Wskaz¢wka:
+ Aby przywr¢ci† oryginalny schemat kolor¢w kliknij Domy˜lny.
+  Dzi©ki temu wszystkie dokonane zmiany zostan¥ anulowane.
+@@!10!@
+Ustawienia
+
+Okre˜la ustawienia programu Edit.
+
+ Przy pomocy pola Tabulacja mo¾na okre˜li† liczb© znak¢w
+  tabulacji w wierszu.
+ Przy pomocy pola Port drukarki mo¾na wskaza† port, do kt¢rego
+  podˆ¥czona jest drukarka.
+@@!101!@
+Nowy
+
+Tworzy nowy plik.
+
+Przed zapisaniem pliku pojawi si© pytanie o nazw© ˜cie¾ki.
+
+Aby otworzy† istniej¥cy plik posˆu¾ si© poleceniem Otw¢rz.
+@@!102!@
+Otw¢rz
+
+Otwiera istniej¥cy plik lub tworzy nowy o wybranej nazwie.
+W pami©ci mo¾e znajdowa† si© do 9 plik¢w jednocze˜nie.
+@@!103!@
+Zamknij
+
+Zamyka aktywny plik.
+
+Je¾eli po ostatnim zapisie zostaˆy wprowadzone zmiany, pojawi si©
+pro˜ba o ich zapisanie.
+@@!104!@
+Zapisz
+
+Zapisuje aktywny plik.
+
+Je˜li plik nie zostaˆ jeszcze nazwany pojawi sie pytanie o nazw©
+˜cie¾ki. Je¾eli zapisywany plik otrzyma tak¥ sam¥ nazw© jak ju¾
+istniej¥cy, pojawi si© pytanie czy go zast¥pi†.
+
+@@!105!@
+Zapisz jako
+
+Zapisuje istniej¥cy plik pod inn¥ nazw¥ lub pozwala nada† nazw©
+nowemu plikowi.
+
+Je¾eli zapisywany plik otrzyma tak¥ sam¥ nazw© jak ju¾ istniej¥cy
+pojawi si© pytanie, czy go zast¥pi†.
+
+Przy pomocy tego polecenia mo¾na r¢wnie¾ zmieni† nazw© pliku
+w trybie tylko-do-odczytu. Po takiej operacji plik b©dzie
+w trybie do zapisu.
+@@!106!@
+Drukuj
+
+Drukuje bie¾¥cy plik.
+
+Mo¾na wydrukowa† caˆy plik lub tylko bie¾¥ce zaznaczenie.
+@@!107!@
+Zakoäcz
+
+Koäczy prac© programu Edit.
+
+Je¾eli po ostatnim zapisie zostaˆy wprowadzone zmiany pojawi si©
+pro˜ba o ich zapisanie.
+Aby zapisa† plik kliknij Tak. Aby zignorowa† zmiany lub anulowa†
+dalsz¥ edycj© pliku kliknij Nie.
+@@!112!@
+Wytnij
+
+Usuwa zaznaczony obszar i kopiuje go do schowka programu Edit.
+
+Schowek programu Edit czasowo przechowuje dane i jest niezale¾ny
+od schowka programu Windows.
+
+Aby wyci¥† tekst mo¾na r¢wnie¾ posˆu¾y† si© klawiszami
+Shift+Delete.
+@@!113!@
+Kopiuj
+
+Kopiuje zaznaczone obszary do schowka programu Edit.
+
+Aby skopiowa† tekst mo¾na r¢wnie¾ posˆu¾y† si© klawiszami
+Ctrl+Ins.
+@@!114!@
+Wklej
+
+Wkleja zawarto˜† schowka (je˜li taka istnieje) w miejscu poˆo¾enia
+kursora.
+
+Aby wklei† tekst mo¾na r¢wnie¾ posˆu¾y† si© klawiszami Shift+Ins.
+Mo¾liwe jest wklejanie tego samego tekstu wiele razy.
+@@!115!@
+Usuä
+
+Usuwa bie¾¥ce zaznaczenie nie kopiuj¥c go do schowka.
+@@!121!@
+Szukaj
+
+Wyszukuje i wy˜wietla okre˜lony tekst w zaˆadowanym pliku.
+@@!122!@
+Powt¢rz ostatnie wyszukiwanie
+
+Odnajduje nast©pne wyst¥pienie poszukiwanego tekstu.
+Wyszukiwanie rozpoczyna od poprzedniego wyst¥pienia.
+@@!123!@
+Zamieä
+
+Znajduje tekst i zamienia go na nowy.
+@@!131!@
+Podziel okno
+
+Otwiera drugie okno edycji. Mo¾na je r¢wnie¾ otworzy† przez
+przeci¥gni©cie paska tytuˆowego w d¢ˆ.
+
+W obu oknach mo¾na edytowa† ten sam plik lub r¢¾ne pliki.
+Je¾eli w obu oknach edytowany jest ten sam dokument, zmiany
+dokonane w jednym z nich natychmiast pojawiaj¥ si© w drugim.
+@@!132!@
+Zmieä rozmiar okna
+
+Zmienia rozmiary okien edycji, je˜li obydwa okna s¥ otwarte.
+
+Zmieni† rozmiary okien mo¾na przy pomocy klawiszy Strzaˆka w g¢r©
+i Strzaˆka w d¢ˆ. Aby zaakceptowa† nowy rozmiar okna naci˜nij
+Enter. Aby anulowa† operacj© naci˜nij Esc.
+
+Przy zmianie rozmiar¢w okien mo¾na si© r¢wnie¾ posˆu¾y† mysz¥,
+przeci¥gaj¥c za jej pomoc¥ pasek tytuˆowy dolnego okna.
+@@!133!@
+Zamknij okno
+
+Zamyka bie¾¥ce okno edycji, je˜li obydwa okna s¥ otwarte.
+
+Przy pomocy myszy lub klawisza F6 wybierz okno, kt¢re chcesz
+zamkn¥†. Nast©pnie kliknij Zamknij okno.
+
+Przy zamykaniu okien mo¾na r¢wnie¾ posˆu¾y† si© mysz¥.
+Aby zamkn¥† g¢rne okno przeci¥gnij dolny pasek tytuˆowy
+w g¢r© ekranu, natomiast aby zamkn¥† dolne okno przeci¥gnij
+go w d¢ˆ ekranu.
+@@!134!@
+Plik
+
+Wybiera plik do edycji.
+
+Kliknij nazw© pliku, do kt¢rego chcesz si© przeˆ¥czy†.
+
+Aby przej˜† do wybranego pliku mo¾na posˆu¾y† si© klawiszami
+skr¢tu Alt+1...Alt+9. Aby przej˜† do kolejnego zaˆadowanego
+pliku mo¾na u¾y† klawisza F8.
+@@!141!@
+Ustawienia
+
+Zmienia ustawienia programu Edit.
+@@!142!@
+Kolory
+
+Zmienia kolory ekranu programu Edit.
+@@!152!@
+Polecenia
+
+Wy˜wietla polecenia programu Edit.
+@@!153!@
+Informacje
+
+Wy˜wietla informacje o programie Edit.
+@@!200!@
+Bˆ©dy dost©pu do plik¢w
+
+Program Edit nie mo¾e utworzy† ani uzyska† dost©pu
+do okre˜lonego pliku. Przyczyny mog¥ by† nast©puj¥ce:
+
+ Pr¢ba utworzenia lub zapisu pliku na dysku tylko-do-odczytu,
+  na dysku CD-ROM lub na dysku sieciowym tylko-do-odczytu.
+ Plik w trybie tylko-do-odczytu.
+ Dost©p do pliku zablokowany przez innego u¾ytkownika 
+  albo program.
+ Pr¢ba odczytu lub zapisu nazwy katalogu.
+@@!201!@
+Pusty dysk
+
+Sprawd«, czy stacja dysk¢w jest zamkni©ta i czy w ˜rodku jest
+dyskietka.
+@@!202!@
+Bˆ©dy dysku
+
+System MS-DOS nie mo¾e czyta† ani zapisa† na dysku.
+
+Je¾eli jest to stacja dysk¢w CD-ROM, sprawd« czy znajduje si©
+w niej dysk.
+
+Je¾eli jest to twardy dysk lub dyskietka, mo¾e to oznacza†
+problem z dyskiem. Zakoäcz jak najszybciej i usuä bˆ¥d.
+Przyczyny mog¥ by† nast©puj¥ce:
+
+     Uszkodzony sektor.
+     Dysk nieprawidˆowo sformatowany lub niewˆa˜ciwa
+      partycja.
+     Problem sprz©towy z dyskiem lub kontrolerem.
+
+Bˆ¥d mo¾na usun¥† przy pomocy programu naprawy dysku
+(podobnego do ScanDisk). Mo¾na r¢wnie¾ utworzy† kopi© zapasow¥
+dysku.
+@@!203!@
+Bˆ©dy Drukarki
+
+Program Edit nie m¢gˆ wykona† operacji drukowania.
+Przyczyny mog¥ by† nast©puj¥ce:
+
+   Urz¥dzenie nie jest podˆ¥czone do drukarki.
+   Drukarka jest wyˆ¥czona lub nie jest w trybie online.
+   W drukarce nie ma papieru.
+   Kabel drukarki nie kontaktuje lub jest odˆ¥czony.
+@@!204!@
+Nieprawidˆowy plik lub ˜cie¾ka
+
+W programie Edit niemo¾liwy byˆ dost©p do pliku lub folderu.
+Przyczyny mog¥ by† nast©puj¥ce:
+
+   Nazwa ˜cie¾ki jest zbyt dˆuga lub zawiera nieprawidˆowe
+    znaki.
+   Nazwa ˜cie¾ki odwoˆuje si© do nieistniej¥cego folderu.
+@@!9999!@
+

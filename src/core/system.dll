@@ -1,0 +1,264 @@
+:calculator
+Kalkulator
+-------------------
+>%calcmemory%
+
+  [1] [2] [3] [+]  
+
+  [4] [5] [6] [-]  
+
+  [7] [8] [9] [*]  
+
+  [C] [0] [=] [/]  
+
+      [Wyjd«]
+::
+
+:randomer
+Randomer
+-----------------------------------
+[1] [2] [3] [4] [5] [6] [7] [8] [9]
+
+              [Wyjd«]
+::
+
+:litera
+Litera
+------------------------------
+[Q][W][E][R][T][Y][U][I][O][P]
+ [A][S][D][F][G][H][J][K][L]
+  [Z][X][C][V][B][N][M]
+
+       [Lista]  [Wyjd«]
+::
+
+:notepad2
+Notatnik
+----------------------------------------
+>%ntpadmemory%
+
+    [1][2][3][4][5][6][7][8][9][0]     
+     [Q][W][E][R][T][Y][U][I][O][P]    
+      [A][S][D][F][G][H][J][K][L]      
+       [Z][X][C][V][B][N][M][,][DOT]   
+               [Spacja]                
+
+[Zapisz] [Otw¢rz] [ABC] [Kasuj] [Wyjd«]  
+::
+
+:notepad2s
+Notatnik
+---------------------------------------
+>%ntpadmemory%
+
+    [1][2][3][4][5][6][7][8][9][0]     
+     [q][w][e][r][t][y][u][i][o][p]    
+      [a][s][d][f][g][h][j][k][l]      
+       [z][x][c][v][b][n][m][,][DOT]   
+               [Spacja]                
+
+[Zapisz] [Otw¢rz] [abc] [Kasuj] [Wyjd«]  
+::
+
+:ntpadsave
+Notatnik - Zapisywanie
+------------------------------
+Nazwa pliku:
+>%ntpadname%
+
+[q][w][e][r][t][y][u][i][o][p]
+ [a][s][d][f][g][h][j][k][l]
+  [z][x][c][v][b][n][m]
+
+  [Zapisz] [Kasuj]  [Anuluj]
+::
+
+:ntpadsaved
+Komunikat
+---------
+Zapisano w "core\users\%osusername%\notepad\%ntpadname%.txt".
+
+[OK]
+::
+
+:ntpadopen
+Notatnik - Otwieranie
+------------------------------
+Nazwa pliku:
+>%ntpadname%
+
+[q][w][e][r][t][y][u][i][o][p]
+ [a][s][d][f][g][h][j][k][l]
+  [z][x][c][v][b][n][m]
+
+  [Otw¢rz] [Kasuj]  [Anuluj]
+::
+
+:ntpadopneoknotexist
+Komunikat
+---------
+Plik "%ntpadname%.txt" nie istnieje.
+
+[OK]
+::
+
+:literalista
+Litera - Lista
+-------------------------------------------------
+Litera: q (sp¢ˆgˆoska)     Litera: f (sp¢ˆgˆoska)
+Litera: w (sp¢ˆgˆoska)     Litera: g (sp¢ˆgˆoska)
+Litera: e (samogˆoska)     Litera: h (sp¢ˆgˆoska)
+Litera: r (sp¢ˆgˆoska)     Litera: j (sp¢ˆgˆoska)
+Litera: t (sp¢ˆgˆoska)     Litera: k (sp¢ˆgˆoska)
+Litera: y (samogˆoska)     Litera: l (sp¢ˆgˆoska)
+Litera: u (samogˆoska)     Litera: z (sp¢ˆgˆoska)
+Litera: i (samogˆoska)     Litera: x (sp¢ˆgˆoska)
+Litera: o (samogˆoska)     Litera: c (sp¢ˆgˆoska)
+Litera: p (sp¢ˆgˆoska)     Litera: v (sp¢ˆgˆoska)
+Litera: a (samogˆoska)     Litera: b (sp¢ˆgˆoska)
+Litera: s (sp¢ˆgˆoska)     Litera: n (sp¢ˆgˆoska)
+Litera: d (sp¢ˆgˆoska)     Litera: m (sp¢ˆgˆoska)
+
+[OK]
+::
+
+:currentuserrenl
+Zmiana nazwy %osusername%
+----------------------------------------
+>%zmmemory%
+
+    [1][2][3][4][5][6][7][8][9][0]     
+     [Q][W][E][R][T][Y][U][I][O][P]    
+      [A][S][D][F][G][H][J][K][L]      
+       [Z][X][C][V][B][N][M]           
+
+    [ABC]   [Zmieä] [Kasuj] [Anuluj]    
+::
+
+:currentuserrens
+Zmiana nazwy %osusername%
+----------------------------------------
+>%zmmemory%
+
+    [1][2][3][4][5][6][7][8][9][0]     
+     [q][w][e][r][t][y][u][i][o][p]    
+      [a][s][d][f][g][h][j][k][l]      
+       [z][x][c][v][b][n][m]           
+
+    [abc]   [Zmieä] [Kasuj] [Anuluj]    
+::
+
+:shutoptions
+Opcje zasilania
+-------------------
+[Zamknij] [Restart]
+
+[Wyloguj] [Anuluj]
+::
+
+:osoptions
+Ustawienia
+----------
+ [Pulpit]
+
+ [Anuluj]
+::
+
+
+:paintoptions
+Paint - Opcje
+-----------------------------------------
+[ Wyczy˜† ] [ Zamknij ] [Opcje malowania]
+
+                [ Anuluj ]
+::
+
+:opcjemalowania
+Paint - Opcje malowania
+-----------------------------------
+[Kolor] [Grubo˜†] [Cuboid] [Anuluj]
+::
+
+:paintcolorselector
+Paint - Wyb¢r koloru
+--------------------------------
+[Czarny]                 [Szary]
+[Niebieski]     [Jasnoniebieski]
+[Zielony]         [Jasnozielony]
+[Bˆ©kitny]       [Jasnobˆ©kitny]
+[Czerwony]       [Jasnoczerwony]
+[Purpurowy]     [Jasnopurpurowy]
+[½¢ˆty]             [Jasno¾¢ˆty]
+[Biaˆy]          [Jaskrawobiaˆy]
+
+       [Cofnij]  [Anuluj]
+::
+
+:paintsize
+Paint - Wyb¢r grubo˜ci
+-----------------------------
+[1x1] [2x2] [3x3] [4x4] [5x5]
+
+[6x6] [7x7] [8x8] [9x9]
+
+      [Cofnij]  [Anuluj]
+::
+
+:paintcuboid
+Paint - Cuboid
+------------------------------
+[ON][/][OFF] [Cofnij] [Anuluj]
+::
+
+:paintcuboid_notavailable
+Komunikat
+---------
+Cuboid w tej wersji jest niedost©pny.
+
+[OK]
+::
+
+:mglowne
+Menu gˆ¢wne systemu BatOS
+-----------------------------------------
+[ Logowanie ] [ Zamknij system ] [ INFO ]
+-----------
+BatOS v%version%
+::
+
+:graphizer_notavailable
+Komunikat
+---------
+Graphizer w tej wersji jest niedost©pny.
+
+[OK]
+::
+
+:desktopsettings
+Ustawienia - Pulpit
+--------------------
+[Kolor tˆa] [Anuluj]
+::
+
+:desktopcolorsettings
+Ustawienia - Pulpit - Kolor tˆa
+--------------------------------
+[Czarny]                 [Szary]
+[Niebieski]     [Jasnoniebieski]
+[Zielony]         [Jasnozielony]
+[Bˆ©kitny]       [Jasnobˆ©kitny]
+[Czerwony]       [Jasnoczerwony]
+[Purpurowy]     [Jasnopurpurowy]
+[½¢ˆty]             [Jasno¾¢ˆty]
+[Biaˆy]          [Jaskrawobiaˆy]
+
+            [Anuluj]
+::
+
+:settingsdesktopbgcantchange
+Komunikat
+---------
+Kolor tˆa nie mo¾e zosta† zmieniony.
+
+[OK]
+::

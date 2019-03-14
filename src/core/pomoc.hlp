@@ -1,0 +1,98 @@
+:info
+                 ----------------------------
+                 \           INFO           / 
+                  --------------------------
+
+Autorem programu "BatOS" jest hXR 16F.
+Rozpowszechnianie w swoim imieniu jest zabronione.
+
+Jest to program, kt¢ry wˆa˜ciwo˜ci ma jak zwykˆy system
+operacyjny. Inspirowany jest programem "Batch Windows", kt¢rego
+autorem jest MrKris7100.
+
+Specjalne podzi©kowania dla:
+MrKris7100, Horst Schaeffer za moduˆy.
+
+Kontakt ze mna: hXR16F.ar@gmail.com
+Znajd« mnie tak¾e na YT!
+
+[OK] [Pomoc]
+::
+
+:pomoc
+Pomoc, strona: 1
+-----------------------------------------------------------------------
+
+   1. Start systemu
+Po uruchomieniu systemu, poka¾¥ si© 3 opcje: Logowanie, Zamknij system,
+Info. Pierwsza z nich przekierowuje do logowania, druga wyˆ¥cza caˆy
+program, trzecia wy˜wietla informacje i pomoc.
+
+[OK]     Strona: [1] [2] [3] [4] [4.1]
+::
+
+:pomoc2
+Pomoc, strona: 2
+----------------------------------------------------------------------
+
+   2. Logowanie
+Pojawi¥ si© napisy "Wpisz #komenda by...". Odpowiadaj¥ one za
+kierowanie wszystkimi u¾ytkownikami. Na samym dole widnieje napis:
+"Nazwa u¾ytkownika: ", nale¾y tam wpisa† sw¢j login, je˜li nie ma si©
+konta trzeba wpisa† ".newuser". Po wpisaniu loginu i hasˆa, kliknij
+"enter" i zaczekaj a¾ si© zaˆaduje pulpit.
+
+[OK]     Strona: [1] [2] [3] [4] [4.1]
+::
+
+:pomoc3
+Pomoc, strona: 3
+--------------------------------------------------------------------------
+
+   3. Pulpit
+Po zaˆadowaniu poka¾e si© kolorowy, "graficzny" pulpit. Na g¢rnym
+pasku, je˜li si© kliknie w napisy, poka¾¥ si© r¢¾ne funkcje
+(informacje o programie, zarz¥dzanie kontem, opcje zasilania, ustawienia).
+W dolnym pasku pokazuje si© tylko data. Je˜li si© w ni¥ kliknie,
+wy˜wietli si© godzina. Po lewej stronie ekranu jest szary pasek. Je˜li
+si© go kliknie poka¾e sie menu, w kt¢rym jest spis wszystkich,
+dost©pnych program¢w. Aby je wˆ¥czyc nale¾y klikn¥† w nazw©.
+
+[OK]     Strona: [1] [2] [3] [4] [4.1]
+::
+
+:pomoc4
+Pomoc, strona: 4
+--------------------------------------------------------------------
+
+   4. Programy
+Programy nie s¥ w ¾aden spos¢b uporz¥dkowane. Pierwszy program to
+"Notatnik (edit.com)". Jest to program systemowy dost©pny w gˆownym
+folderze Windows z nazw¥ "edit". Tworc¥ tego notatnika jest
+Microsoft. Drugi program to "Kalkulator". Jest to zwykˆy kalkulator
+liczacy tylko podstawowe dziaˆania. Trzeci program to "Randomer".
+Jest to "gra" polegajaca na zgadni©ciu wylosowanej liczby. Czwarty
+program to "Litera". Poka¾e nam si© klawiatura z literami, je˜li
+wybierzemy np. liter© "E" poka¾e czy jest to spoˆgˆoska czy
+samogˆoska. Pi¥ty program to "Notatnik". Zaawansowany program
+w tym systemie. Zawiera klawiatur© (nie tylko litery, lecz tak¾e
+cyfry oraz niekt¢re znaki interpunkcyjne). Mo¾emy w nim pisa† prawie
+to co chcemy. Sz¢stym programem jest "Paint". Ciekawy program do
+malowania. Mo¾na wybra† dowolny kolor z 16 dost©pnych oraz grubo˜†
+p©dzla. Si¢dmy program to "Spacebar". Mo¾na tam tworzy† "obrazki".
+àsmy program to "CMD". Jest to program systemowy Windows. Mo¾na w
+nim wpisa† swoje wˆasne polecenia. Jest jednak w nim kilka bˆ©d¢w.
+
+[OK]     Strona: [1] [2] [3] [4] [4.1]
+::
+
+:pomoc4.1
+Pomoc, strona: 4.1
+------------------------------------------------------------------
+
+   4.1. Programy
+Dziewi¥ty program to "Graphizer". Jest to program, kt¢ry zawiera w
+sobie kilkana˜cie rysunk¢w.
+
+[OK]     Strona: [1] [2] [3] [4] [4.1]
+::
